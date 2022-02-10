@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quarzsprung
 - 👀 I’m interested in learning programming from the scratch again.
-- 🌱 I’m currently learning javascript, html and python.
+- 🌱 I’m currently learning javascript, html, css and python.
 - 💞️ I’m looking to collaborate on projects for beginners.
 - 📫 How to reach me: quarzsprung@tutanota.com
 
